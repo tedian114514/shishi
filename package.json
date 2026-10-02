@@ -1,0 +1,12 @@
+{
+  "name": "tw-proxy-cloudflare",
+  "version": "1.0.0",
+  "description": "Bilibili API Proxy - Cloudflare Workers 版本",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
